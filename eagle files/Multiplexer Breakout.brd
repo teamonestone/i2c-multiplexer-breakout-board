@@ -94,8 +94,6 @@ Multiplexer</text>
 <text x="29.845" y="90.805" size="1.778" layer="21" font="vector" ratio="10" distance="80">I²C 2</text>
 <text x="41.275" y="90.805" size="1.778" layer="21" font="vector" ratio="10" distance="80" rot="R90">I²C 0</text>
 <text x="13.97" y="5.08" size="1.778" layer="21" font="vector" ratio="10" distance="80">I²C Input from Master</text>
-<dimension x1="0" y1="0" x2="50.8" y2="0" x3="25.4" y3="-5.08" textsize="1.778" layer="1"/>
-<dimension x1="50.8" y1="0" x2="50.78" y2="97.46" x3="56.52454375" y3="48.731175" textsize="1.778" layer="1"/>
 </plain>
 <libraries>
 <library name="con-amp" urn="urn:adsk.eagle:library:127">
