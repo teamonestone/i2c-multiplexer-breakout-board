@@ -1,11 +1,11 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
-        "CreationDate": "2018-10-21T11:28:57Z",
+        "CreationDate": "2018-11-22T21:23:44Z",
         "GenerationSoftware": {
             "Application": "EAGLE",
             "Vendor": "Autodesk",
-            "Version": "9.2.1"
+            "Version": "9.2.2"
         },
         "Part": "Single"
     },
@@ -17,8 +17,8 @@
         },
         "Owner": "Jonas Merkle <jonas.merkle@uni-ulm.de>",
         "Size": {
-            "X": 50.78,
-            "Y": 97.46
+            "X": 43.16,
+            "Y": 80.95
         }
     }
 }
